@@ -1,0 +1,18 @@
+{
+  "name": "gulpular",
+  "version": "1.0.0",
+  "homepage": "https://github.com/abelfletcher/gulpular",
+  "description": "Gulpular Application",
+  "authors": [
+    "Abel Fletcher"
+  ],
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
